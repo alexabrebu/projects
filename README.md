@@ -5,7 +5,7 @@ Here I will ocassionally upload projects from the past/that I'm currently workin
 
 Here is a brief description for each of them:
 
-[Node-Vue] IpWorkshop Site
+[b][Node-Vue] IpWorkshop Site[/b]
 
 This is a web application which mainly uses Vuetify and JS technologies (some HTML/CSS content as well).
 It's been originally designed to receive data from some sensors (view the about section).
