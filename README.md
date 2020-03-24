@@ -14,7 +14,7 @@ The website itself has several tabs included (each one with its pupose).
 !All the node_modules have been eliminated due to the big size of the document. The code will not work without them.
 Acces - Terminal command: npm run serve
 
-!Please access src for te main content.
+!Please access "src" for te main content & "src -> components -> required" for the tabs.
 
 
 [NodeJs] Calculator
