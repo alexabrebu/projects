@@ -1,7 +1,7 @@
 # projects
 
 Hello & Welcome to my little space on GitHub.
-Here I will ocassionally upload new projects from the past/that I'm currently working on.
+Here I will ocassionally upload projects from the past/that I'm currently working on.
 
 Here is a brief description for each of them:
 
