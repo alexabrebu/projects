@@ -5,7 +5,8 @@ Here I will ocassionally upload projects from the past/that I'm currently workin
 
 Here is a brief description for each of them:
 
-[b][Node-Vue] IpWorkshop Site[/b]
+
+[Node-Vue] IpWorkshop Site
 
 This is a web application which mainly uses Vuetify and JS technologies (some HTML/CSS content as well).
 It's been originally designed to receive data from some sensors (view the about section).
@@ -17,11 +18,13 @@ Acces - Terminal command: npm run serve
 !Please access "src" for te main content & "src -> components -> required" for the tabs.
 
 
+
 [NodeJs] Calculator
 
 An actual Calculator that uses NodeJS technologies. There are several operations & cases considering. 
 The list of commands can be seen using the cowsay module.
 Acces - Terminal command: node index.js addition 2 3 (example)
+
 
 
 [WebProgramming] Website
