@@ -2,6 +2,7 @@
 
 Hello & Welcome to my little space on GitHub.
 Here I will ocassionally upload projects from the past/that I'm currently working on.
+I'm working towards improving my skills. Additional changes might occur from time to time (even on existing projects, as I only uploaded the initial structure/version).
 
 Here is a brief description for each of them:
 
