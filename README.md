@@ -1,3 +1,6 @@
+
+# March 2021 update: Under construction :) Will make updates soon!
+
 # projects
 
 Hello & Welcome to my little space on GitHub.
@@ -13,7 +16,7 @@ This is a web application which mainly uses Vuetify and JS technologies (some HT
 It's been originally designed to receive data from some sensors (view the about section).
 The website itself has several tabs included (each one with its pupose).
 
-!All the node_modules have been eliminated due to the big size of the document. The code will not work without them.
+!All the node_modules have been eliminated for security reasons, of course.
 Acces - Terminal command: npm run serve
 
 !Please access "src" for te main content & "src -> components -> required" for the tabs.
@@ -22,7 +25,7 @@ Acces - Terminal command: npm run serve
 
 [NodeJs] Calculator
 
-An actual Calculator that uses NodeJS technologies. There are several operations & cases considering. 
+An actual Calculator that uses NodeJS technologies. There are several operations & cases considered. 
 The list of commands can be seen using the cowsay module.
 Acces - Terminal command: node index.js addition 2 3 (example)
 
